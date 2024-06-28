@@ -1,0 +1,6 @@
+@PaulTreuAPI_HostAddress = http://localhost:5265
+
+GET {{PaulTreuAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
